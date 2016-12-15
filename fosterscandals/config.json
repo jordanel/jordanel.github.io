@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Connection",
-    "colorLabel": "Organization",
+    "colorLabel": "Scandal",
     "nodeLabel": "Person"
   },
   "features": {
