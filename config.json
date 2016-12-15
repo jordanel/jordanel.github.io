@@ -3,51 +3,51 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "text": "Jordan Elliott",
     "file": "",
-    "link": ""
+    "link": "",
+    "text": "Jordan Elliott"
   },
   "text": {
-    "title": "Les Miserables",
-    "more": "blahblahblah",
-    "intro": "test graph"
+    "more": "The depression suffered by Vince Foster around the time of his suicide was influenced by many factors. One was the fact that many of his scandal-plagued coworkers were in fact friends from his time in Arkansas. This network attempts to visualize the connectedness of his peers by linking them to the White House, Foster\u0027s family, and Rose Law Firm, where Foster and others worked in Arkansas.",
+    "intro": "A network of friends, family and colleagues of Vince Foster around the time of his death colored by organizations belonged to.",
+    "title": "Vince Foster by Organization"
   },
   "legend": {
-    "edgeLabel": "Connections",
-    "colorLabel": "Communities",
-    "nodeLabel": "People"
+    "edgeLabel": "Connection",
+    "colorLabel": "Organization",
+    "nodeLabel": "Person"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": "Organization",
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "imageAttribute": false,
-    "groupByEdgeDirection": false
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
   },
   "sigma": {
-    "graphProperties": {
-      "minEdgeSize": 0.2,
-      "maxNodeSize": 7,
-      "maxEdgeSize": 0.5,
-      "minNodeSize": 1
-    },
     "drawingProperties": {
-      "labelThreshold": 10,
-      "hoverFontStyle": "bold",
       "defaultEdgeType": "curve",
-      "defaultLabelColor": "#000",
-      "defaultLabelHoverColor": "#fff",
-      "defaultLabelSize": 14,
-      "activeFontStyle": "bold",
-      "fontStyle": "bold",
       "defaultHoverLabelBGColor": "#002147",
-      "defaultLabelBGColor": "#ddd"
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
     },
     "mouseProperties": {
-      "minRatio": 0.75,
-      "maxRatio": 20
+      "maxRatio": 20,
+      "minRatio": 0.75
     }
   }
 }
