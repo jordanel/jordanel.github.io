@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Organization",
+    "groupSelectorAttribute": "scandals",
     "hoverBehavior": "default"
   },
   "informationPanel": {
