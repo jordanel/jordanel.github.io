@@ -8,9 +8,9 @@
     "text": "Jordan Elliott"
   },
   "text": {
-    "more": "The depression suffered by Vince Foster around the time of his suicide was influenced by many factors. One was the fact that many of his scandal-plagued coworkers were in fact friends from his time in Arkansas. This network attempts to visualize the connectedness of his peers by linking them to the White House, Foster\u0027s family, and Rose Law Firm, where Foster and others worked in Arkansas.",
-    "intro": "A network of friends, family and colleagues of Vince Foster around the time of his death colored by organizations belonged to.",
-    "title": "Vince Foster by Organization"
+    "more": "The depression suffered by Vince Foster around the time of his suicide was influenced by many factors. One was the multiple ongoing scandals during his time in the White House. This network attempts to visualize the extent to which members of the White House staff and their close friends were involved in Whitewater, Travelgate, and Nannygate during the early Clinton presidency.",
+    "intro": "A network of friends, family and colleagues of Vince Foster around the time of his death colored by scandals involved in.",
+    "title": "Vince Foster by Scandal"
   },
   "legend": {
     "edgeLabel": "Connection",
